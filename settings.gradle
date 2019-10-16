@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='MONJA_UP3BNA'

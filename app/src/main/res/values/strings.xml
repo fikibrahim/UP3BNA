@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">MONJA UP3 BNA</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="monja_digital_up3bna">MONJA DIGITAL UP3BNA</string>
+    <string name="login">Login</string>
+    <string name="save_password">Save Password</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="belum_punya_akun">Belum Punya Akun?</string>
+    <string name="register">Register</string>
+
+    <string name="no_inspeksi">No Inspeksi</string>
+    <string name="rayon">Rayon</string>
+    <string name="penyulang">Penyulang</string>
+    <string name="indikasi">Indikasi</string>
+    <string name="jenis_temuan">Jenis Temuan</string>
+    <string name="pemadaman">Pemadaman</string>
+    <string name="lokasi_inspeksi">Lokasi Inspeksi</string>
+    <string name="select_date">Select Date</string>
+    <string name="tgl_inspeksi">Tanggal Inspeksi</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="jenis_wo">Jenis Wo</string>
+    <string name="tgl_tindak_lanjut">Tanggal Tindak lanjut</string>
+    <string name="lokasi_tindak_lanjut">Lokasi tindak lanjut</string>
+    <string name="logout">logout</string>
+
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="nav_email">monja.up3bna@example.com</string>
+
+
+    <string name="label_monja">MONJA UP3 BNA</string>
+    <string name="search">Search</string>
+    <string name="hasil_inspeksi">BNA Hasil Inspeksi</string>
+    <string name="gangguan">Gangguan</string>
+    <string name="share">Share</string>
+    <string name="sync">Sync</string>
+    <string name="menu_lainnya">Menu Lainnya</string>
+    <string name="tentang">Tentang</string>
+    <string name="inspeksi">Inspeksi</string>
+    <string name="tingkat_emergency">TINGKAT EMERGENCY</string>
+    <string name="kritis">KRITIS</string>
+    <string name="segera">SEGERA</string>
+    <string name="biasa">BIASA</string>
+    <string name="padam">PADAM</string>
+    <string name="tidak_padam">TIDAK PADAM</string>
+    <string name="nama_foto_inspeksi">NAMA FOTO INSPEKSI</string>
+    <string name="tanggal_gangguan">Tanggal</string>
+    <string name="masukan_tanggal_inspeksi">Masukan Tanggal Inspeksi</string>
+    <string name="masukan_tanggal_gangguan">Masukan Tanggal</string>
+    <string name="jam">Jam</string>
+    <string name="arus_pasha_r">Arus Pasha R</string>
+    <string name="arus_pasha_s">Arus Pasha S</string>
+    <string name="arus_pasha_n">Arus Pasha N</string>
+    <string name="arus_pasha_t">Arus Pasha T</string>
+    <string name="penyebab_gangguan">Penyebab Gangguan</string>
+    <string name="gps">GPS</string>
+    <string name="foto_2">Foto 2</string>
+    <string name="foto_1">Foto 1</string>
+    <string name="bna_hasil_gangguan">BNA Hasil Gangguan</string>
+    <string name="nama_foto_tl">Nama Foto TL</string>
+    <string name="status_tl">Status TL</string>
+
+</resources>

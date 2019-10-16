@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+
+        <item android:id="@+id/nav_inspeksi"
+            android:icon="@drawable/ic_inspeksi"
+            android:title="@string/inspeksi" />
+
+        <item android:id="@+id/nav_gangguan"
+            android:title="@string/gangguan"
+            android:icon="@drawable/ic_inspeksi"/>
+
+        <item android:id="@+id/nav_hasil_inspeksi"
+            android:icon="@drawable/ic_inspeksi"
+            android:title="@string/hasil_inspeksi" />
+
+        <item android:id="@+id/nav_hasil_gangguan"
+            android:title="@string/bna_hasil_gangguan"
+            android:icon="@drawable/ic_inspeksi"/>
+
+        <item android:id="@+id/nav_share"
+            android:title="@string/share"
+            android:icon="@drawable/ic_share"/>
+
+        <item android:id="@+id/nav_sync"
+            android:title="@string/sync"
+            android:icon="@drawable/ic_cloud"/>
+    </group>
+
+    <item android:title="@string/menu_lainnya">
+        <menu>
+            <item android:id="@+id/nav_tentang"
+                android:title="@string/tentang"
+                android:icon="@drawable/ic_info"/>
+            <item
+                android:id="@+id/nav_logout"
+                android:icon="@drawable/ic_logout"
+                android:title="@string/logout" />
+
+        </menu>
+
+    </item>
+</menu>

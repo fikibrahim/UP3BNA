@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_inspeksi">
+
+    <fragment
+        android:id="@+id/nav_inspeksi"
+        android:name="com.dicoding.monja_up3bna.ui.inspeksi.FormInspeksiFragment"
+        android:label="@string/label_monja"
+        android:textAllCaps="true"
+        tools:layout="@layout/fragment_form_inspeksi" />
+
+    <fragment
+        android:id="@+id/nav_gangguan"
+        android:name="com.dicoding.monja_up3bna.ui.ganguan.FormGangguanFragment"
+        android:label="@string/label_monja"
+        tools:layout="@layout/fragment_form_gangguan"/>
+
+    <fragment
+        android:id="@+id/nav_hasil_inspeksi"
+        android:name="com.dicoding.monja_up3bna.ui.hasil_inspeksi.FormHasilInspeksiFragment"
+        android:label="@string/label_monja"
+        android:textAllCaps="true"
+        tools:layout="@layout/fragment_form_hasil_inspeksi" />
+
+    <fragment
+        android:id="@+id/nav_hasil_gangguan"
+        android:name="com.dicoding.monja_up3bna.ui.hasil_gangguan.FormHasilGangguanFragment"
+        android:label="@string/label_monja"
+        tools:layout="@layout/fragment_form_hasil_gangguan"/>
+
+    <fragment android:id="@+id/nav_share"
+        android:name="com.dicoding.monja_up3bna.ui.share.FormShareFragment"
+        android:label="@string/label_monja"
+        tools:layout="@layout/fragment_share"/>
+
+    <fragment android:id="@+id/nav_sync"
+        android:name="com.dicoding.monja_up3bna.ui.sync.FormSyncFragment"
+        android:label="@string/label_monja"
+        tools:layout=""/>
+
+    <fragment android:id="@+id/nav_tentang"
+        android:name="com.dicoding.monja_up3bna.ui.tentang.FormTentangFragment"
+        android:label="@string/label_monja"
+        tools:layout="@layout/fragment_form_tentang"/>
+
+</navigation>
